@@ -8,3 +8,7 @@ https://nilearn.github.io/modules/generated/nilearn.plotting.plot_prob_atlas.htm
 https://github.com/Parietal-INRIA/DiFuMo
 # Use data generator to convert data into batches
 # train, test and optimize the deep learning models.
+# We will update more results and evaluation code after paper the accepting of the paper.
+# All codes are written in python and all deep learning models are written in PyTorch library.
+https://pytorch.org/
+https://numpy.org/doc/stable/reference/index.html
