@@ -19,5 +19,5 @@ All codes are written in python and all deep learning models are written in PyTo
 https://pytorch.org/
 
 https://numpy.org/doc/stable/reference/index.html
-
+# If code will be useful, Please cite this paper
 [AQ_conference_update.pdf](https://github.com/RespectKnowledge/ABIDE_Classification_DLModel/files/7278002/AQ_conference_update.pdf)
