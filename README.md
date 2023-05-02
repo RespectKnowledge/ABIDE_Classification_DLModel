@@ -20,4 +20,4 @@ https://pytorch.org/
 
 https://numpy.org/doc/stable/reference/index.html
 # If code will be useful, Please cite this paper
-[AQ_conference_update.pdf](https://github.com/RespectKnowledge/ABIDE_Classification_DLModel/files/7278002/AQ_conference_update.pdf)
+https://link.springer.com/chapter/10.1007/978-981-16-7167-8_77
